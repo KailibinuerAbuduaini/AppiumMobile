@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d921c7-718e-468f-bb03-38a99d8310b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyVG3ucPrraUrPQz6jFSozOsMJ" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\AppiumAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MobileWebTestAutomation.test1">
+    <configuration name="CloudTest_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day02" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day02.CloudTest_2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudTest_2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day02" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day02.CloudTest_2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileWebTestAutomation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day03" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day03.MobileWebTestAutomation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileWebTestAutomation.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day03" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day03.MobileWebTestAutomation" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MobileWebTestAutomation.test1" />
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.MobileWebTestAutomation" />
+        <item itemvalue="JUnit.CloudTest_2.test1" />
+        <item itemvalue="JUnit.CloudTest_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d921c7-718e-468f-bb03-38a99d8310b3" name="Default Changelist" comment="" />
+      <created>1582018221643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582018221643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="25" key="GridCell.Tab.0.bottom" timestamp="1587589087665">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1587589087665" />
+    <state width="1237" height="25" key="GridCell.Tab.0.center" timestamp="1587589087664">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1587589087664" />
+    <state width="1237" height="25" key="GridCell.Tab.0.left" timestamp="1587589087664">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1587589087664" />
+    <state width="1237" height="25" key="GridCell.Tab.0.right" timestamp="1587589087664">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1587589087664" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1587548481012">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1587548481012" />
+    <state x="316" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1587656893847">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="316" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1587656893847" />
+  </component>
+</project>

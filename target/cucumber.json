@@ -1,0 +1,75 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-02-20T22:20:46.037Z",
+        "line": 5,
+        "name": "Login with etsy credentials (positive)",
+        "description": "",
+        "id": "login-feature;login-with-etsy-credentials-(positive)",
+        "after": [
+          {
+            "result": {
+              "duration": 1325931600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.automation.step_definitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 59852719500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "use clicks on get started",
+            "match": {
+              "location": "com.automation.step_definitions.LoginStepDefinitions.use_clicks_on_get_started()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20865912300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user logs in with etsy credentials",
+            "match": {
+              "location": "com.automation.step_definitions.LoginStepDefinitions.user_logs_in_with_etsy_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that etsy logo is displayed",
+            "match": {
+              "location": "com.automation.step_definitions.LoginStepDefinitions.user_verifies_that_etsy_logo_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Login feature",
+    "description": "  As user, I want to be able to log in with etsy account, as well as with google\n  and facebook accounts.",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Login.feature",
+    "tags": []
+  }
+]
